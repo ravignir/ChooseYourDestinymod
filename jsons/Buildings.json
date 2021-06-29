@@ -1,0 +1,73 @@
+[
+	{
+		"name": "Gifts",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["Provides [10] [Heaven Gift]","Will not be displayed in Civilopedia","Unbuildable","Unsellable"],
+		},
+	{
+		"name": "Enhanced Monuments",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["[+1 Gold, +1 Culture] from every [Monument]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [3] [Heaven Gift]"],
+		},
+		{
+		"name": "Enhanced Libraries",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["[+1 Gold, +1 Science] from every [Library]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [3] [Heaven Gift]"],
+		},
+		{
+		"name": "Enhanced Growth",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["[+1 Food] [in all cities]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [4] [Heaven Gift]"],
+		},
+		{
+		"name": "Ingenuity",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["Receive free [Great Scientist] when you discover [Writing]","[Great Scientist] is earned [50]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [6] [Heaven Gift]"],
+		},
+		{
+		"name": "Art of War",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["Great General provides double combat bonus","[Great General] is earned [50]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [5] [Heaven Gift]"],
+		},
+		{
+		"name": "Military Training",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["New [Military] units start with [15] Experience","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [5] [Heaven Gift]"],
+		},
+		{
+		"name": "Unlock Maori Warriors",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["Provides [1] [Maori Warriors]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [2] [Heaven Gift]"],
+		},
+		{
+		"name": "Unlock Bowmen",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["Provides [1] [Bowmen]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [2] [Heaven Gift]"],
+		},
+		{
+		"name": "Unlock Jaguars",
+		"uniqueTo": "Wonderland",
+		"cost": -1,
+		"isNationalWonder": true,
+		"uniques": ["Provides [1] [Jaguars]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Heaven Gift]","Not displayed as an available construction without [Palace]","Unsellable","Consumes [2] [Heaven Gift]"],
+		},
+		
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Wonderland",
+		"leaderName": "Hermit",
+		"adjective": ["Wonderland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "I demand blood!",
+		"attacked": "Are you mad or just overly confident?",
+		"defeated": "I may rest now. Farewell.",
+		"introduction": "Who are you?",
+		
+		"neutralHello": "Hi.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Let us trade.",
+				
+		"outerColor": [0,0,0],
+		"innerColor": [213,249,255],
+		"uniqueName": "Choose Your Destiny",
+		"uniqueText": "Start with 10 Heaven Gifts, that you may spend to choose your civilization bonuses",
+		"uniques": ["Gain a free [Gifts] [in capital]"],
+		"cities": ["Wonderland","Wonderburg","Wonderling","Wondergrad","Wonderlith"]
+	},
+]

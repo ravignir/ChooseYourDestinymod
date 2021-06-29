@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Maori Warriors",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Haka War Dance"],
+		"upgradesTo": "Swordsman",
+		"uniques": ["Will not be displayed in Civilopedia","Not displayed as an available construction without [Maori Warriors]"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Jaguars",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"uniques": ["Will not be displayed in Civilopedia","Not displayed as an available construction without [Jaguars]","+[33]% Strength in [Forest]", "+[33]% Strength in [Jungle]", "Heals [25] damage if it kills a unit"],
+		"promotions": ["Woodsman"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Bowmen",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 9,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+				"uniques": ["Will not be displayed in Civilopedia","Not displayed as an available construction without [Bowmen]"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+]

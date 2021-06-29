@@ -1,0 +1,22 @@
+[	
+	{
+		"name": "Heaven Gift",
+		"resourceType": "Bonus",
+		"gold": 1,
+	},
+		{
+		"name": "Bowmen",
+		"resourceType": "Bonus",
+		"gold": 1,
+	},
+		{
+		"name": "Jaguars",
+		"resourceType": "Bonus",
+		"gold": 1,
+	},
+		{
+		"name": "Maori Warriors",
+		"resourceType": "Bonus",
+		"gold": 1,
+	},
+]
